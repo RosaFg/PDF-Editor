@@ -120,8 +120,6 @@ Pillow==10.1.0          # Procesamiento de imágenes
 - "Guardar": Sobrescribe el archivo original
 - "Guardar como": Crea un nuevo archivo PDF con las modificaciones
 
-Para más información detallada, consulta la [Guía de Usuario Completa](docs/USER_GUIDE.md).
-
 ## Estructura del Proyecto
 
 ```
