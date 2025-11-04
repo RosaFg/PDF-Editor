@@ -1,0 +1,57 @@
+# ===================================
+# .gitignore para PDF Editor
+# ===================================
+
+# Entornos virtuales
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de build de PyInstaller
+# Estos directorios NUNCA deben subirse a Git.
+build/
+dist/
+
+# Archivos de Sistema Operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# IDEs y Editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs y archivos temporales
+logs/
+*.log
+temp/
+temporal/
+test_files/
+pruebas/
+
+# Archivos de seguridad (buena práctica)
+*.key
+*.pem
+secrets.py
+.secrets/
+
+# Dependencias (si se instalan localmente)
+lib/
+lib64/
+
+# Se eliminó la regla "*.spec" para que puedas
+# incluir tu archivo "Editor_PDF.spec".
+
+# Se eliminó la regla "*.pdf" para que puedas
+# incluir archivos PDF de prueba.
