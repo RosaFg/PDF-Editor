@@ -8,7 +8,7 @@ PDF Editor es una aplicación de escritorio que facilita la edición de document
 
 ## Ejemplo
 
-![Editor-gif]('assets/Editor-gif.gif')
+![Editor-gif](assets/Editor-gif.gif)
 
 ## Características Principales
 
